@@ -2,5 +2,5 @@
 
 - 💻 Core Stack: **PHP/GO/JS**. Mainly focused on Backend & DevOps.
 - 😌 Interested in Blockchain & DeFi
-- 💬 Telegram <a href="https://t.me/npetrov_go"  target="blank">@npetrov_go</a>
+- 💬 Telegram <a href="https://t.me/ProfNikitaPetrov"  target="blank">ProfNikitaPetrov</a>
 - 🌱 LinkedIn <a href="https://www.linkedin.com/in/mymarvel">@MyMarvel</a>
